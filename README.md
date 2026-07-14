@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bibythayyil/bibythayyil/main/assets/student_academic_dashboard.png" width="900">
+</p>
+
+---
+
 ## Project Overview
 
 This project analyzes factors affecting academic performance among university students. Using a dataset of 10,064 student records across 35 variables, the project covers end-to-end data analysis: raw data cleaning in Excel, written analysis in a report, and an interactive Power BI dashboard with filters for attendance, study hours, gender, and age.
