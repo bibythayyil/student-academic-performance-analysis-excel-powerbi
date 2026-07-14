@@ -3,6 +3,7 @@
 > A Power BI dashboard and data analysis project examining the factors that influence university student grades — including lifestyle, digital behaviour, academic environment, and student wellbeing — built as a Data Analytics Mini Project.
 
 ---
+## Project Showcase
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bibythayyil/bibythayyil/main/assets/student_academic_dashboard.png" width="900">
